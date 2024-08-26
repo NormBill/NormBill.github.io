@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Li Fan (樊力)"
 title_separator          : "-"
 name                     : &name "Li Fan"
-description              : &description "personal description"
+#description              : &description "personal description"
 url                      : https://NormBill.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "NormBil/NormBill.github.io"
@@ -23,20 +23,20 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Li Fan"
-  pronouns         : # example: "he"  
+  pronouns         : "he"
   bio              : ""
   location         : "China"
-  employer         : "University of Liverpool (Xi'an Jiaotong-Liverpool University)"
+  employer         : "XJTLU"
   uri              : # URL
   email            : "a213837054@gmail.com" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+#  arxiv            : # URL - Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.com/citations?user=F1YWLioAAAAJ"
+#  impactstory      : # URL
+#  orcid            : ""
+#  pubmed           : "https://www.ncbi.nlm.nih./pubmed/?term=john+snow"
+#  researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
